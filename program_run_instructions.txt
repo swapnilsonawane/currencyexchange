@@ -1,0 +1,24 @@
+
+How to run 
+
+download "runnable/currency-exchange-1.0-SNAPSHOT.jar" jar to folder
+go to folder and execute below command
+
+java -jar currency-exchange-1.0-SNAPSHOT.jar
+
+else 
+open project in editor 
+and run main program : ExchangeApplication.java
+
+
+Access below endpoint
+
+you can directly access via browser as all are GET
+
+http://localhost:8080/exchange/hello
+
+http://localhost:8080/exchange/rateofday?date=2018-01-01
+
+http://localhost:8080/exchange/rate?date=2018-01-01&baseCurrency=SGD&currency=INR
+
+http://localhost:8080/exchange/rates?startDate=2018-01-01&endDate=2018-01-02&currency=SGD
