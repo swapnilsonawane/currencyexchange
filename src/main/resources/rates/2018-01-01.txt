@@ -1,0 +1,9 @@
+1 CHF traded at 1.04 times USD
+1 EUR traded at 1.19 times USD
+1 GBP traded at 1.30 times USD
+1 OMR traded at 2.60 times USD
+1 BHD traded at 2.65 times USD
+1 KWD traded at 3.32 times USD
+1 SGD traded at 0.74 times USD
+1 INR traded at 0.015 times USD
+1 TWD traded at 0.03 times USD
